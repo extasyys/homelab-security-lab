@@ -1,5 +1,9 @@
 # Homelab Security Lab
 
+![Status](https://img.shields.io/badge/status-active-blue)
+![Lab](https://img.shields.io/badge/lab-Proxmox-orange)
+![Focus](https://img.shields.io/badge/focus-cybersecurity-green)
+
 Small x86-based cybersecurity homelab running on a Lenovo ThinkCentre M720Q with Proxmox VE.
 
 The goal of this lab is to learn practical networking, virtualization, firewalling, tunneling, service isolation, and basic infrastructure security using real systems.

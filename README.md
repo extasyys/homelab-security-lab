@@ -8,6 +8,13 @@ Small x86-based cybersecurity homelab running on a Lenovo ThinkCentre M720Q with
 
 The goal of this lab is to learn practical networking, virtualization, firewalling, tunneling, service isolation, and basic infrastructure security using real systems.
 
+## Documentation
+
+- [Inventory](docs/inventory.md)
+- [Network topology](docs/network-topology.md)
+- [Security roadmap](docs/security-roadmap.md)
+
+
 ## Current setup
 
 | Area | Technology |
